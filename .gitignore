@@ -1,8 +1,4 @@
-# Vercel
-.vercel
-
-# macOS
 .DS_Store
-
-# Node
+.vercel
 node_modules/
+*.log
